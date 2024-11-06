@@ -1,4 +1,4 @@
-# see /README.md 1
+# see /README.md now it works
 
 name: build-and-sign
 run-name: Demo workflow signing with SignPath
