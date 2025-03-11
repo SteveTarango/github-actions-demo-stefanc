@@ -6,7 +6,7 @@ on:
   push:
   pull_request:
   #schedule:
-  #  - cron:  '30 3 * * *' # every day at 3:30am UTC 
+  #  - cron:  '30 3 * * *' # every day at 3:30am UTC  nope
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
